@@ -1,9 +1,9 @@
 # Deposit_tracking
-This project is for efficient and accurate deposit detection and tracking within pipelines, based on the combination of YOLOX (for detection) and BYTE (for tracking).
+This project aims to enable efficient and accurate deposit detection and tracking within pipelines, leveraging a multi-object tracking (MOT) algorithm that combines YOLOX (for detection) and BYTE (for tracking).
 
 The framework is developed based on the open-source tool MMTracking. The model configuration file used in this paper is located at "./configs/mot/myconfigs/deposit_tracking_bytetrack.py".
 
-The video data annotation process is conducted with the aid of Computer Vision Annotation Tool (CVAT).
+Video data annotation is performed with the assistance of the Computer Vision Annotation Tool (CVAT).
 
 # Results
 ![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result_1.jpg)
