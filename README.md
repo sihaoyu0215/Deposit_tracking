@@ -5,7 +5,7 @@ The framework is developed based on the open-source tool MMTracking. The model c
 
 The video data annotation process is conducted with the aid of Computer Vision Annotation Tool (CVAT).
 
-## Results
+# Results
 ![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result_1.jpg)
 ![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result_2.jpg)
 ![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result_3.jpg)
