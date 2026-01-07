@@ -6,9 +6,7 @@ The framework is developed based on the open-source tool MMTracking. The model c
 Video data annotation is performed with the assistance of the Computer Vision Annotation Tool (CVAT). The annotated data must then be converted to the CocoVID format to be compatible with the MMTracking framework.
 
 ## Results
-![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result_1.jpg)
-![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result_2.jpg)
-![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result_3.jpg)
+![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result.jpg)
 
 ## Citation
 The citation link will be released upon paper acceptance.
