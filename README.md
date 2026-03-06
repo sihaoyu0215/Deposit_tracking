@@ -9,4 +9,4 @@ Video data annotation is performed with the assistance of the Computer Vision An
 ![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result.jpg)
 
 ## Citation
-Wong, L. N. Y., Yu, S., & Wong, K. Y. P. (2026). Intelligent and autonomous pipeline deposit tracking based on a multi-object tracking framework. Tunnelling and Underground Space Technology, 171, 107463.
+Wong, L. N. Y., Yu, S., & Wong, K. Y. P. (2026). Intelligent and autonomous pipeline deposit tracking based on a multi-object tracking framework. ***Tunnelling and Underground Space Technology***, 171, 107463.
