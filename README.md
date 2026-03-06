@@ -6,7 +6,7 @@ The framework is developed based on the open-source tool MMTracking. The model c
 Video data annotation is performed with the assistance of the Computer Vision Annotation Tool (CVAT). The annotated data must then be converted to the CocoVID format to be compatible with the MMTracking framework.
 
 ## Results
-![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result.jpg)
+![image](https://github.com/sihaoyu0215/Deposit_tracking/blob/main/resources/tracking_result.tif)
 
 ## Citation
 Wong, L. N. Y., Yu, S., & Wong, K. Y. P. (2026). Intelligent and autonomous pipeline deposit tracking based on a multi-object tracking framework. Tunnelling and Underground Space Technology, 171, 107463.
